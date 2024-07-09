@@ -24,6 +24,11 @@ const router = createRouter({
                     name: 'text',
                     component: () => import('../components/text.vue')
                 
+                },
+                {
+                    path:'/about',
+                    name:'about',
+                    component:()=>import('../components/HelloWorld.vue')
                 }
     ]
 },

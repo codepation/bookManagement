@@ -12,17 +12,13 @@
               <el-icon><Position /></el-icon>
               <span>My book</span>
             </el-menu-item>
-            <el-menu-item index="text" class="hover">
+            <el-menu-item index="/text" class="hover">
               <el-icon><User /></el-icon>
               <span>User free</span>
             </el-menu-item>
-            <el-menu-item index="" class="hover">
+            <el-menu-item index="/about" class="hover">
               <el-icon><StarFilled /></el-icon>
               <span>About</span>
-            </el-menu-item>
-            <el-menu-item index="4" class="hover">
-              
-              <span>force</span>
             </el-menu-item>
           </el-menu>
         </el-col>
