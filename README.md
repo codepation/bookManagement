@@ -1,1 +1,16 @@
+运行展示：
+登录界面
+![image](https://github.com/codepation/bookManagement/blob/master/readome/login.png)
+注册界面
+![image](https://github.com/codepation/bookManagement/blob/master/readome/register.png)
+管理界面
+![image](https://github.com/codepation/bookManagement/blob/master/readome/bookmanage.png)
+![image](https://github.com/codepation/bookManagement/blob/master/readome/alters.png)
+![image](https://github.com/codepation/bookManagement/blob/master/readome/addbook.png)
+该项目功能有登录、注册、登出和增删改查功能。
+前端配置：以vscode为例
 ![image](https://github.com/codepation/bookManagement/blob/master/readome/runs.png)
+后端配置：
+![image](https://github.com/codepation/bookManagement/blob/master/readome/backSeting.png)
+![image](https://github.com/codepation/bookManagement/blob/master/readome/jdkOne.png)
+![image](https://github.com/codepation/bookManagement/blob/master/readome/jdkTwo.png)
