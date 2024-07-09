@@ -1,2 +1,2 @@
 ####前端运行：
-readome/runs.png
+![image](https://github.com/codepation/readome/bookManagement/backSeting.png
